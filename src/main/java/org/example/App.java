@@ -6,4 +6,9 @@ public class App
     {
         System.out.println("Boo yah!");
     }
+
+    public void hello() {
+        System.out.println("Hello");
+    }
 }
+
