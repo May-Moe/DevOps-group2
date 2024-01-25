@@ -10,4 +10,4 @@
 [![Releases](https://img.shields.io/github/release/May-Moe/DevOps-group2/all.svg?style=flat-square)](https://github.com/May-Moe/DevOps-group2/releases)
 
 *Develop
-![GitHub Workflow Status develop](https://img.shields.io/github/workflow/status/May-Moe/DevOps-group2/main.yml/develop?style=flat-square)
+![GitHub Workflow Status develop](https://img.shields.io/github/actions/workflow/status/May-Moe/DevOps-group2/main.yml?branch=develop)
